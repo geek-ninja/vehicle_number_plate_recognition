@@ -8,4 +8,4 @@ How to use?
 give your vehicle image dir in the code and run the Main.py file
 <br>
 Output
-![](imgOriginalScene.png)
+![](vehicle_No_plateRecognition/imgOriginalScene.png)
