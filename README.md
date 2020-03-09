@@ -5,7 +5,8 @@ pip3 install cv2
 <br>
 How to use?
 <br>
-give your vehicle image dir in the code and run the Main.py file
+give your vehicle image dir in the code and run the Main.py file<br>
+<h2>Output</h2>
 
 
 ![](result.png)
