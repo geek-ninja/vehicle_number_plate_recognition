@@ -7,5 +7,5 @@ How to use?
 <br>
 give your vehicle image dir in the code and run the Main.py file
 <br>
-Output
+Output<br>
 ![](result.png)
